@@ -1,0 +1,2 @@
+# credit-card-fraud-detection-by-using-machine-Learning
+This project applies machine learning techniques to detect fraudulent credit card transactions. It utilizes data preprocessing, feature selection, and classification algorithms like Logistic Regression, Random Forest, and XGBoost to build a predictive model. The goal is to identify suspicious activity with high accuracy and minimal false positives.
